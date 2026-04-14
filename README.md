@@ -1,6 +1,6 @@
 # EvalBench — LLM evaluation toolkit — BLEU, ROUGE, semantic similarity, and custom metrics for benchmarking AI outputs
 
-LLM evaluation toolkit — BLEU, ROUGE, semantic similarity, and custom metrics for benchmarking AI outputs. EvalBench gives you a focused, inspectable implementation of that idea.
+LLM evaluation toolkit — BLEU, ROUGE, semantic similarity, and custom metrics for benchmarking AI outputs.
 
 ## Why EvalBench
 
