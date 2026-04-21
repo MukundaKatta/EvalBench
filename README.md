@@ -1,4 +1,6 @@
-# EvalBench — LLM evaluation toolkit — BLEU, ROUGE, semantic similarity, and custom metrics for benchmarking AI outputs
+> **Related work:** Primary development for this problem space has converged on **[evalharness](https://github.com/MukundaKatta/evalharness)** — prompts, agents, and RAG-pipeline red-teaming, regression, and CI testing. This repo remains available; check the canonical repo first for the latest tooling.
+
+---# EvalBench — LLM evaluation toolkit — BLEU, ROUGE, semantic similarity, and custom metrics for benchmarking AI outputs
 
 LLM evaluation toolkit — BLEU, ROUGE, semantic similarity, and custom metrics for benchmarking AI outputs.
 
