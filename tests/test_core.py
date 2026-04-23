@@ -3,13 +3,10 @@
 from __future__ import annotations
 
 import json
-import tempfile
-from pathlib import Path
 
 import pytest
 
-from evalbench.config import EvalConfig
-from evalbench.core import EvalReport, EvalResult, EvalSuite, Evaluator, TestCase
+from evalbench.core import EvalSuite, Evaluator, TestCase
 from evalbench.utils import (
     bleu_score,
     compute_cosine_similarity,
